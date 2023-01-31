@@ -122,7 +122,11 @@ p {
 footer {
   text-align: center;
 }
+.creds {
+  color: #01050d;
+}
 
-.credit {
-  color: rgba(79, 7, 99, 0.27);
+a {
+  text-decoration: none;
+  color: rgba(102, 12, 126, 0.5);
 }
